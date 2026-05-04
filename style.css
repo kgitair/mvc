@@ -88,3 +88,38 @@ li span:focus {
   border: 2px solid #007bff;
   background: rgba(179, 207, 255, 0.52)
 }
+
+#dark-mode-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  background: transparent;
+  color: inherit;
+  border: 2px solid #ccc;
+  font-size: .875rem;
+  padding: .4rem .8rem;
+  margin: 0;
+}
+
+body.dark {
+  background: #1a1a1a;
+  color: #f0f0f0;
+}
+
+body.dark h1 {
+  color: #f0f0f0;
+}
+
+body.dark li {
+  background: #2a2a2a;
+}
+
+body.dark [type="text"] {
+  background: #2a2a2a;
+  color: #f0f0f0;
+  border-color: #555;
+}
+
+body.dark #dark-mode-toggle {
+  border-color: #555;
+}
