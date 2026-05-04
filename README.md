@@ -1,7 +1,7 @@
 # 🔱 MVC.js
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Simple todo MVC application in plain JavaScript
+Simple todo MVC application in plain JavaScript.
 
 ### [Read the tutorial](https://www.taniarascia.com/javascript-mvc-todo-app) | [View the demo](https://taniarascia.github.io/mvc)
 
